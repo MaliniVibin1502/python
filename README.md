@@ -1,2 +1,4 @@
-This file contains sales data analysis done using python. Coding is done using Google Colab. You can clone this and use, however do not try to edit any code in this file. 
-Happy Coding !!
+Being an aspiring Data Scientist this repository is self projects done on data received from Freecodecamp of the course Data Analyis with Python. Data is saved in csv files and there are two db files chinook and sakila db both which are exercise files from the Freecodecamp repository. I have used Google Colab for coding and the libraries used are Numpy, Pandas, Matplotlib and Seaborn within these projects. 
+The files bike_sales, chinook.db and sakila.db are the files taken from Freecodecamp repsitory and sales_data is from Kaggle
+Please ensure not to make any edits in the respository. You can down the files and refer to the codes that I have done however please do not edit the repository.
+Happy coding!!
